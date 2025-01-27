@@ -20,7 +20,7 @@ http://192.168.1.1:4022/udp/239.45.1.45:5140
 #EXTINF:-1 tvg-id="" tvg-name="纪实科教" tvg-logo="https://epg.v1.mk/logo/纪实科教.png" group-title="上海",纪实科教
 http://192.168.1.1:4022/udp/239.45.1.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="上海",乐游
-http://192.168.1.1:4022/udp/239.45.0.16:5140
+http://192.168.1.1:4022/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
 http://192.168.1.1:4022/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经
